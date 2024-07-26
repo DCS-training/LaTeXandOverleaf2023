@@ -41,7 +41,6 @@ The training is subdivided in 2 sessions of 120 mins. The material was developpe
  - Drag and drop the unzipped file or find on your device and open
  - Have a little look and play around before class if you are interested!
  
-This Repo has been created by Sarah van Eyndhoven and has a [![License: CC BY-NC 
-4.0](https://licensebuttons.net/l/bync/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) 
-license
+This Repo has been created by Sarah van Eyndhoven and has a [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
+
  
